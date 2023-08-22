@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/ZcajXIrIEwnS7C7hjK8W46hhCNFaC2JZ4XkvMWFpTV7osoGUJImIlo3PJdwo+oLbvWbiz/n4bwv823A5CPOAw==",
+  "dgSpecHash": "dp5iLRGoRbEtmji6/D4VwoqsSFYa/8s02ysqFJuFuZvuJsIcjWolzlXmrbmn76aIXGjVKadgfJg8X7cRMyPMYw==",
   "success": true,
   "projectFilePath": "/home/marina/Documentos/DOCpessoal/projetos/dotnet/MeuTodo/MeuTodo.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,10 @@
     "/home/marina/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
     "/home/marina/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/marina/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
-    "/home/marina/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+    "/home/marina/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
+    "/home/marina/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/marina/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/marina/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }
